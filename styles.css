@@ -1,0 +1,95 @@
+/* @import url("https://fonts.google.com/specimen/Outfit"); */
+
+body,
+html {
+  height: 100%;
+}
+
+body {
+  font-family: Outfit;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(217, 54%, 11%);
+  color: white;
+  font-size: 18px;
+}
+
+.container {
+  width: fit-content;
+  padding: 16px;
+  border: 1px solid hsl(216, 50%, 16%);
+  border-radius: 20px;
+  background-color: hsl(216, 50%, 16%);
+  box-shadow: 15px 20px rgba(0, 0, 0, 0.1), -15px 20px rgba(0, 0, 0, 0.1);
+  height: 80%;
+}
+.container > img {
+  object-fit: cover;
+  width: 100%;
+  height: 50%;
+}
+
+.container > img:hover {
+  cursor: pointer;
+}
+
+.content .name {
+  font-weight: 600;
+}
+
+.name:hover {
+  cursor: pointer;
+  color: hsl(178, 100%, 50%);
+}
+
+.content .description {
+  font-weight: 300;
+  color: hsl(215, 51%, 70%);
+}
+
+.price-time {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.price-time img {
+  margin-right: 10px;
+}
+.price {
+  color: hsl(178, 100%, 50%);
+}
+.time {
+  color: hsl(215, 51%, 70%);
+}
+
+.footer {
+  display: flex;
+  margin-top: 1rem;
+}
+
+.footer > img {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+}
+.footer .text {
+  align-self: center;
+  color: hsl(215, 51%, 70%);
+}
+.special-text {
+  color: white;
+}
+.special-text:hover {
+  cursor: pointer;
+  color: hsl(178, 100%, 50%);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
