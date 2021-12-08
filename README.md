@@ -28,18 +28,10 @@ Users should be able to:
 
 ![](./images/screenshot.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it.
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://nft-preview-card-dam.netlify.app/)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/responsive-preview-card-with-css-flexbox-7kkRnhs2C)
+- Live Site URL: [live site](https://nft-preview-card-dam.netlify.app/)
 
 ## My process
 
@@ -63,6 +55,6 @@ Making multiple box shadows with different opacity. I wasn't able to fully imple
 
 ## Author
 
-- Website - [Add your name here](https://iam-ibrahim.netlify.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/@Dbest2018)
-- Twitter - [@yourusername](https://www.twitter.com/@iamDbest)
+- Website - [Ibrahim Shittu](https://iam-ibrahim.netlify.app/)
+- Frontend Mentor - [@Dbest2018](https://www.frontendmentor.io/profile/@Dbest2018)
+- Twitter - [@iamDbest21](https://www.twitter.com/@iamDbest21)
