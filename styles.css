@@ -1,4 +1,4 @@
-/* @import url("https://fonts.google.com/specimen/Outfit"); */
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap");
 
 body,
 html {
@@ -6,9 +6,10 @@ html {
 }
 
 body {
-  font-family: Outfit;
+  font-family: "Outfit", san-serif;
+  width: 350px;
+  margin: 0 auto;
   display: flex;
-  justify-content: center;
   align-items: center;
   background-color: hsl(217, 54%, 11%);
   color: white;
